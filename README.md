@@ -19,7 +19,7 @@
 Clone or download the repository:
 
 ```bash
-git clone https://github.com/<username>/binary-tiff-stack-interpolator.git
+git clone https://github.com/Curtis-WWIEM/binary-tiff-stack-interpolator.git
 ```
 Requires MATLAB with the Image Processing Toolbox™.
 
